@@ -8,7 +8,7 @@ Our group: Amisha Gupta, David Jones, Stuti Patel, and Jennifer Nguyen
 Here's what to do BEFORE running the source code on Apache Flink:
 1. Download the Tweets.csv and source code JAR file on to your local/virtual machine
 
-To run the source code on Flink, you can follow the steps listed below:
+To run the source code on Apache Flink, you can follow the steps listed below:
 1. Start a Flink cluster. You can do this by running the start-cluster.sh script in the Flink's bin directory using the command line: ./bin/start-cluster.sh
 .**Make sure the first step also starts the web dashboard**
 2. Submit your JAR file to the flink cluster two times. You can do this by:   
