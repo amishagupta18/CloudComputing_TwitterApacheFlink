@@ -16,4 +16,5 @@ To run the source code on Flink, you can follow the steps listed below:
       b. Second, running the following command for positive tweets:
       <br><img width="425" alt="image" src="https://user-images.githubusercontent.com/104871313/232067578-182c90e7-3c16-4a60-9c74-4ed0c075d978.png"><br>
 **Step 2 should give you the count of the negative and positive tweets in the file**
-3. Monitor the progress of the JAR file. You can do this by visiting the Flink web dashboard at 'http://localhost:8081' (assuming you are running Flink locally) or by using the Flink command-line interface. If the JAR file runs successfully, it will output the number of negative and positive tweets.
+3. Monitor the progress of the JAR file. You can do this by visiting the Flink web dashboard at 'http://localhost:8081' 
+(assuming you are running Flink locally) or by using the Flink command-line interface. If the JAR file runs successfully, it will output the number of negative and positive tweets.
