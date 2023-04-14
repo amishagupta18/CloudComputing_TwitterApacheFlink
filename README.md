@@ -9,7 +9,7 @@ Here's what to do BEFORE running the source code on Apache Flink:
 
 To run the source code on Flink, you can follow the steps listed below:
 1. Start a Flink cluster. You can do this by running the start-cluster.sh script in the Flink's bin directory using the command line: ./bin/start-cluster.sh
-**Make sure the first step also starts the web dashboard**
+.**Make sure the first step also starts the web dashboard**
 2. Submit your JAR file to the flink cluster two times. You can do this by:   
       a. First, running the following command for negative tweets: 
       <br><img width="358" alt="image" src="https://user-images.githubusercontent.com/104871313/232067251-b9a51914-a9c1-46b0-bb36-2ae834cde2e1.png"><br>
