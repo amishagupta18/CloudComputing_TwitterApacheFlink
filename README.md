@@ -1,7 +1,7 @@
 # CloudComputing_TwitterApacheFlink
 Our group: Amisha Gupta, David Jones, Stuti Patel, and Jennifer Nguyen
 
--Source Code located in SourceCode file(both java and JAR file)<br>
+-Source Code can be found on the main repository page: tweetAnalysis_flink.jar <br>
 -CSV file that has the tweets for Turkey and Syria Earthquake can be downloaded from the link: <br>
  https://drive.google.com/file/d/1yaxlwj-8AKzUlqOcyQaDgF_aZfJsYq1i/view?usp=sharing
 
